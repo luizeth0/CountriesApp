@@ -45,12 +45,10 @@ class CountriesViewHolder(
 ): ViewHolder(binding.root) {
 
     fun bind(country: CountryResponse) {
-        binding.txtName.text = "${country.name}, "
-        binding.txtRegion.text = country.region
-        binding.txtCode.text = country.code
-        binding.txtCapital.text = country.capital
-
-
+        if (!country.name.isNullOrEmpty()) {binding.txtName.text = "${country.name}, "} else {binding.txtName.text = "Name not available, "}
+        if (!country.region.isNullOrEmpty()) {binding.txtRegion.text = country.region} else {binding.txtRegion.text = "Region not available"}
+        if (!country.code.isNullOrEmpty()) {binding.txtCode.text = country.code} else {binding.txtCode.text = "Code not available"}
+        if (!country.capital.isNullOrEmpty()) {binding.txtCapital.text = country.capital} else {binding.txtCapital.text = "Capital not available"}
     }
 
 }
