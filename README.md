@@ -2,6 +2,12 @@
 
 This is a simple Android app that fetches a list of countries from a JSON API and displays them in a RecyclerView. Each country is shown with its name, region, code, and capital.
 
+
+![Screenshot_20230523_111938](https://github.com/luizeth0/CountriesApp/assets/123969601/8a249f9c-72be-49f4-bd4d-b329be251ea4)
+![Screenshot_20230523_112021](https://github.com/luizeth0/CountriesApp/assets/123969601/c7f99bd9-b9f6-456c-b305-55bbdd13d654)
+
+
+
 ## Technologies Used
 
 - Kotlin: The primary programming language used for Android app development.
