@@ -4,16 +4,16 @@ This is a simple Android app that fetches a list of countries from a JSON API an
 
 ## Technologies Used
 
-- Kotlin
-- RecyclerView
-- Coroutines
-- Retrofit
-- Gson
-- ViewModel
-- LiveData
-- Lifecycle
-- Error handling
-- Device rotation support
+- Kotlin: The primary programming language used for Android app development.
+- RecyclerView: A UI component for displaying large lists of data efficiently.
+- Coroutines: Used for asynchronous programming and handling network requests.
+- Retrofit: A popular HTTP client library for making API calls in Android.
+- Gson: A library for serializing and deserializing JSON data in Android.
+- ViewModel: Part of Android Architecture Components, used for managing UI-related data.
+- LiveData: Also part of Android Architecture Components, provides observable data for UI updates.
+- Lifecycle: Android Architecture Components library for lifecycle-aware components.
+- Error handling: Implemented robust error handling for network requests and edge cases.
+- Device rotation support: Implemented support for handling configuration changes during device rotation.
 
 ## Project Structure
 
