@@ -2,8 +2,8 @@
 
 This is a simple Android app that fetches a list of countries from a JSON API and displays them in a RecyclerView. Each country is shown with its name, region, code, and capital.
 
- <img src="https://github.com/luizeth0/CountriesApp/assets/123969601/8a249f9c-72be-49f4-bd4d-b329be251ea4" alt="Screenshot 1" width="300px" height="600">
- <img src="https://github.com/luizeth0/CountriesApp/assets/123969601/c7f99bd9-b9f6-456c-b305-55bbdd13d654" alt="Screenshot 2" width="600px" height="300">
+ <img src="https://github.com/luizeth0/CountriesApp/assets/123969601/8a249f9c-72be-49f4-bd4d-b329be251ea4" alt="Screenshot 1" width="300px" height="500">
+ <img src="https://github.com/luizeth0/CountriesApp/assets/123969601/c7f99bd9-b9f6-456c-b305-55bbdd13d654" alt="Screenshot 2" width="500px" height="300">
 
 
 ## Technologies Used
