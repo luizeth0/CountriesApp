@@ -55,3 +55,16 @@ To build and run the project, follow these steps:
 
    ```shell
    git clone https://github.com/your-username/country-list-app.git
+   
+2. Open the project in Android Studio.
+
+3. Build and run the app on an emulator or a physical device.
+
+Future Enhancements
+Here are some potential enhancements that can be made to the app:
+
+Implement search functionality to allow users to search for specific countries.
+Add pagination support to load countries in batches for better performance.
+Improve UI design and styling for a more visually appealing user interface.
+Implement caching mechanism to store and load the country list for offline usage.
+Add unit tests to ensure the correctness of the implemented functionality.
