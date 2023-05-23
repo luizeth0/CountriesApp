@@ -53,7 +53,7 @@ To build and run the project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/country-list-app.git
+   git clone https://github.com/luizeth0/CountriesApp.git
    
 2. Open the project in Android Studio.
 
