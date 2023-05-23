@@ -13,7 +13,6 @@ This is a simple Android app that fetches a list of countries from a JSON API an
 - Coroutines
 - Retrofit
 - ViewModel
-- Lifecycle
 
 ## Implementation Details
 
@@ -27,7 +26,7 @@ This is a simple Android app that fetches a list of countries from a JSON API an
 
 - The fetched country list is displayed using a RecyclerView, which efficiently handles large lists of data.
 - Each country item is displayed in a table-like format, showing the country's name, region, code, and capital.
-- The UI layout is designed using XML layout files, and the view binding approach can be used for connecting the UI elements with the data.
+- The UI layout is designed using XML layout files, and the view binding approach for connecting the UI elements with the data.
 
 ### Device Rotation
 
