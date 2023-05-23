@@ -5,7 +5,6 @@ This is a simple Android app that fetches a list of countries from a JSON API an
 ## Technologies Used
 
 - Kotlin
-- Android SDK
 - RecyclerView
 - Coroutines
 - Retrofit
